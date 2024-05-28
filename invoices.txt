@@ -1,0 +1,9 @@
+Invoice number : Product Name : Quantity : Total Price : Customer Name : Branch
+123 , shirt100 , 3 , 300 , itan , snif1
+124 , pants80 , 1 , 72.0 , test , Snif1
+125 , pants80 , 1 , 72.0 , test , Snif1
+126 , socks , 5 , 45.0 , test , Snif1
+127 , shirt100 , 1 , 90.0 , test , Snif1
+128 , pants80 , 1 , 72.0 , test , Snif1
+129 , crocs , 2 , 144.0 , test , Snif1
+130 , socks , 1 , 9.0 , test , Snif1
